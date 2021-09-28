@@ -1,6 +1,4 @@
-# NAT2K15 Chat Clear
-
-This is a better version of NAT2K15's /clearchat script. 
+# A better/edited version of Nat's ClearChat
 
 
 # Credits:
